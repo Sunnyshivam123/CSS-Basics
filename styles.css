@@ -1,0 +1,46 @@
+/* p{
+    color: red;
+} */
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+#para{
+    color: aqua;
+}
+.small{
+    font-size: small;
+}
+.big{
+    font-size: larger;
+}
+
+/* #first-button{
+background-color: red;
+} */
+/* 
+#first-id{
+color: aqua;
+} */
+
+button:hover{
+    background-color: yellow;
+}
+
+#first-id:hover{
+    background-color:yellowgreen;
+}
+
+#divi{
+    background-color: yellow;
+}
+.divc{
+    background-color: green;
+    font-size: larger;
+}
+div{
+    background-color: red;
+    color: blue;
+}
